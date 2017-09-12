@@ -17,4 +17,3 @@ def vectorized_kmeans():
 ###################
 def parallelized_kmeans():
     pass
-
